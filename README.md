@@ -1,6 +1,6 @@
 ### Hi there I'm Hin 👋🏻
 
-I'm someone who is passionate about Open Source Softwares and GNU/Linux and Android
+I'm just copy paste
 
 - 🌱 I’m currently learning C, C++, Make.
 - 📫 How to reach me:
